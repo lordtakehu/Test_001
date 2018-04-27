@@ -9,7 +9,7 @@ public class Test_003 {
         //int sum = 0;
 
         System.out.println(
-            "Please enter a number to show its digits");
+            "Please enter a name");
         num = scan.nextLine();
 
         /*System.out.println(
@@ -19,6 +19,6 @@ public class Test_003 {
             sum += num % 10;
             num = num / 10;   
         }*/
-        System.out.println("Sum is " + num);            
+        System.out.println("Name is " + num);            
     }
 }
