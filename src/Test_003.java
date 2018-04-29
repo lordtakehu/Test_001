@@ -19,6 +19,6 @@ public class Test_003 {
             sum += num % 10;
             num = num / 10;   
         }*/
-        System.out.println("Check if this name is correct:" + num);            
+        System.out.println("Check if this name is correct, yes or no:" + num);            
     }
 }
