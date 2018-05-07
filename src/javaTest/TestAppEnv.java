@@ -12,6 +12,6 @@ public class TestAppEnv {
 
         System.out.println("Please enter a link");
         num = scan.nextLine();
-        return num;
+        return "http://"+num;
 	}
 }

@@ -12,6 +12,6 @@ public class Test_002 {
 		System.setProperty("webdriver.firefox.bin","/usr/bin/firefox");
 		WebDriver driver = new FirefoxDriver();
 		driver.get ((String) TestAppEnv.getUrl());
-		assertEquals("Title should matched","Firefox",driver.getTitle());
+		assertEquals("Title should matched","Download Firefox — Free Web Browser",driver.getTitle());
 	}
 }
