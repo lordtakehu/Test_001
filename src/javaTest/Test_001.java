@@ -18,5 +18,6 @@ public class Test_001 {
 		System.out.println(i);//5
 		System.out.println(i++);//false
 		System.out.println(i);//6
+		
 	}
 }
