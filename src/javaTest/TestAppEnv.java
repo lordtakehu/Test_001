@@ -9,7 +9,7 @@ public class TestAppEnv {
 		scan = new Scanner(System.in);
         System.out.println("Please enter a link");
         String num = scan.nextLine();
-        return "http://"+num;
+        return num;
 	}
 
 	public static String getKey() {
