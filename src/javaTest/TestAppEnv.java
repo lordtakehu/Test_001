@@ -1,4 +1,3 @@
-package javaTest;
 import java.util.Scanner;
 
 public class TestAppEnv {
