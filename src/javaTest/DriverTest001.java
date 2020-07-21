@@ -30,7 +30,10 @@ public class DriverTest001 {
     driver.findElement(By.name("loginButton")).click();
     driver.findElement(By.id("ember770")).click();
     driver.findElement(By.xpath("//a[contains(@href, '/adviser/client/11178')]")).click();
+<<<<<<< HEAD
     
+=======
+>>>>>>> branch 'master' of https://github.com/lordtakehu/Test_001.git
   }
 
  /* @After
